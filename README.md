@@ -1,2 +1,6 @@
 # Processing-Pong
-Pong made with processing
+
+This is a pong game I created in the program lessons on my school
+
+Philip Offermans
+mail@philipoffermans.nl
